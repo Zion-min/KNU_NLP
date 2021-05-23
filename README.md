@@ -1,6 +1,7 @@
 # KNU_NLP Undergraduate intern log
 - KNU Natural Language Processing lab 
 - 2021.2~
+- 연구시 연구주제: Fact correction metric 개발
 
 # [2월] AI 공부
 - [Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
