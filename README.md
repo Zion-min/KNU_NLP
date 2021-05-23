@@ -1,4 +1,4 @@
-# KNU_NLP 학부생 인턴 일지
+# KNU_NLP Undergraduate intern log
 - KNU Natural Language Processing lab 
 - 2020.2~
 
