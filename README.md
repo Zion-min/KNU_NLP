@@ -37,5 +37,6 @@
 - QA -> BERT, transformer 공부 필요
 
 # [5월] '심층학습' 스터디
+<img width="198" alt="스크린샷 2021-05-24 오전 12 05 23" src="https://user-images.githubusercontent.com/70755576/119265957-ca5e7f80-bc23-11eb-9998-c0026b5c6d1e.png">
 - NOW: 선형대수 파트
 - CS224N 강의(NLP stanford)
